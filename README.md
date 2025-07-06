@@ -1,1 +1,1 @@
-# graphql-python
+# graphql-graphene-python
